@@ -1834,30 +1834,6 @@
 		<panel name="StanDardScreen"/>
 		<widget name="text" font="RegularBold;26" backgroundColor="OE_Background" position="97,140" size="1250,50" transparent="1"/>
 	</screen>
-	<!-- LOCALE SELECTION -->
-	<screen name="LocaleSelection" position="fill" backgroundColor="transparent" flags="wfNoBorder">
-		<panel name="StanDardScreen" />
-		<panel name="TemplatePip" />
-		<ePixmap alphatest="blend" pixmap="skin_default/buttons/key_exit.png" position="18,925" size="64,43" />
-		<widget name="icons" position="0,0" size="30,27" pixmaps="icons/lock_on.png,icons/lock_off.png,icons/lock_error.png" alphatest="blend" />
-		<widget source="locales" render="Listbox" scrollbarMode="showOnDemand" scrollbarSliderForegroundColor="blue_light" position="97,140" size="1250,728" transparent="1">
-			<convert type="TemplatedMultiContent">
-				{
-				"template":
-					[
-					MultiContentEntryPixmapAlphaBlend(pos = (10, 3), size = (100, 50), flags = BT_SCALE, png = 0),  # Flag.
-					MultiContentEntryText(pos = (130, 0), size = (460, 56), font = 0, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 1),  # Language name (Native).
-					MultiContentEntryText(pos = (600, 0), size = (450, 56), font = 0, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 2),  # Language name (English).
-					MultiContentEntryText(pos = (1050, 0), size = (110, 56), font = 0, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 3),  # Locale.
-					MultiContentEntryPixmapAlphaBlend(pos = (1170, 3), size = (56, 50), flags = BT_SCALE, png = 4)  # Status icon.
-					],
-				"fonts":[gFont("Regular",30)],
-				"itemHeight":56
-				}
-			</convert>
-		</widget>
-		<widget source="description" render="Label" font="Regular;30" backgroundColor="OE_Background" position="97,890" size="1250,50" transparent="1" valign="center" foregroundColor="white" />
-	</screen>
 	<!-- LANGUAGE SELECTION -->
 	<screen name="LanguageSelection" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
 		<panel name="StanDardScreen"/>
@@ -4167,10 +4143,12 @@
 		self[&quot;list&quot;].instance.setItemHeight(50)
 		</applet>
 	</screen>
-	<screen name="VISIONImageManagerMenu" backgroundColor="transparent" flags="wfNoBorder" position="0,0" size="1920,1080">
-		<panel name="TemplateInformation"/>
-		<panel name="ButtonsVisionCore"/>
-		<widget name="config" itemHeight="60" font="RegularBold;25" backgroundColor="OE_Background" position="410,150" zPosition="10" size="1490,630" transparent="1"/>
+	<!-- VISION IMAGE MANAGER SETUP-->
+	<screen name="ImageManagerSetup" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
+		<panel name="StanDardScreen"/>
+		<panel name="TemplatePip"/>
+		<ePixmap alphatest="blend" pixmap="buttons/key_help.png" position="18,980" size="64,43"/>
+		<widget name="config" itemHeight="50" font="RegularBold;26" scrollbarMode="showOnDemand" scrollbarSliderForegroundColor="blue_light" enableWrapAround="1" backgroundColor="OE_Background" position="97,140" size="1250,800" transparent="1"/>
 	</screen>
 	<screen name="ImageManagerDownload" backgroundColor="transparent" flags="wfNoBorder" position="0,0" size="1920,1080">
 		<panel name="TemplateInformation"/>
