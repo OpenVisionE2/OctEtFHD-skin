@@ -1738,37 +1738,6 @@
 	<panel name="Clock"/>
   </screen>
 
-  <!-- DIGITAL Fernsehen -->
-  <screen name="digitalTVMain" title="" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
-	<eLabel backgroundColor="OE_NewBg2" foregroundColor="white" name="" position="660,center" size="80,1080" zPosition="-10"/>
-	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="center,center" size="680,890" zPosition="-15"/>
-	<eLabel name="" foregroundColor="white" backgroundColor="blue_light" position="765,155" size="510,2" zPosition="-9"/>
-	<!-- Widget -->
-	<eLabel text="DIGITALfernsehen" backgroundColor="OE_Background" font="RegularBold;30" position="765,98" size="510,50" transparent="1" halign="left" foregroundColor="white"/>
-	<ePixmap position="250,145" size="480,40" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/DIGITALfernsehen/pic/digitalfernsehen.png" alphatest="blend" zPosition="1"/>
-	<widget name="mainmenu" font="RegularBold;25" itemHeight="50" scrollbarMode="showNever" backgroundColor="OE_Background" position="765,170" size="250,800" transparent="1" valign="center"/>
-	<!-- Clock -->
-	<panel name="Clock"/>
-  </screen>
-
-  <screen name="DIGITALfernsehenMain" title="" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
-	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1060,940" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" foregroundColor="white" name="" position="70,center" size="80,1080" zPosition="-11" valign="center"/>
-	<eLabel name="" foregroundColor="white" backgroundColor="blue_light" position="170,130" size="900,2" zPosition="-9"/>
-	<!-- Widget -->
-	<eLabel text="DIGITALFERNSEHEN.de" font="RegularBold;30" backgroundColor="OE_Background" foregroundColor="white" position="170,73" size="900,50" transparent="1"/>
-	<ePixmap position="170,130" size="800,66" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/DIGITALfernsehen/pic/digitalfernsehenHD.png" alphatest="blend" zPosition="1"/>
-	<widget name="pic1" position="170,211" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="pic2" position="170,301" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="pic3" position="170,391" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="pic4" position="170,481" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="pic5" position="170,571" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="pic6" position="170,661" size="107,80" alphatest="blend" zPosition="1"/>
-	<widget name="menu" position="290,206" size="683,540" font="Regular;26" itemHeight="50" backgroundColor="OE_Background" scrollbarMode="showNever" transparent="1" zPosition="1"/>
-	<!-- Clock -->
-	<panel name="Clock1"/>
-  </screen>
-
   <!-- DLNABrowser -->
   <screen name="DLNAFileBrowser" title="File Browser" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
 	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1460,940" zPosition="-15"/>
