@@ -2750,45 +2750,6 @@
 	<widget name="config" itemHeight="50" font="RegularBold;25" scrollbarMode="showOnDemand" scrollbarSliderForegroundColor="blue_light" enableWrapAround="1" backgroundColor="OE_Background" position="26,140" size="1250,650" transparent="1"/>
   </screen>
 
-  <!-- ET-Portal -->
-  <screen name="EtPortalScreen" title="EtPortalScreen" backgroundColor="transparent" flags="wfNoBorder" position="0,0" size="1920,1080">
-	<!-- Template -->
-	<eLabel backgroundColor="OE_Background" name="InfoBar" position="center,910" size="1410,150" zPosition="-15"/>
-	<eLabel backgroundColor="white" name="" position="center,908" size="1414,154" zPosition="-20"/>
-	<eLabel backgroundColor="white" foregroundColor="OE_Background" name="" position="380,795" size="1164,204" zPosition="-13"/>
-	<eLabel backgroundColor="OE_NewBg2" position="382,797" size="1160,200" zPosition="-12" foregroundColor="white"/>
-	<!-- /* Widgets -->
-	<widget source="label" render="Label" position="center,1003" size="785,55" font="RegularBold;30" backgroundColor="OE_Background" transparent="1" halign="center"/>
-	<widget name="thumb0" position="407,859" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb1" position="570,839" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb2" position="733,820" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb3" position="center,807" size="128,128" zPosition="8" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb4" position="1059,820" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb5" position="1224,839" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<widget name="thumb6" position="1389,859" size="128,128" zPosition="5" alphatest="blend" backgroundColor="dark" transparent="1"/>
-	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/EtPortal/pics/sel.png" position="center,806" size="150,150" zPosition="9" transparent="1" alphatest="on"/>
-	<ePixmap alphatest="blend" pixmap="buttons/key_menu.png" position="1595,917" size="64,43"/>
-	<!-- Clock -->
-	<panel name="Clock"/>
-  </screen>
-
-  <screen name="EtPortalSetupScreen" title="EtPortal Setup" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
-	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1460,940" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" foregroundColor="white" name="" position="70,center" size="80,1080" zPosition="-11" valign="center"/>
-	<eLabel name="" foregroundColor="white" backgroundColor="blue_light" position="170,130" size="1250,2" zPosition="-9"/>
-	<!-- Widget -->
-	<widget render="Label" source="Title" font="RegularBold;30" backgroundColor="OE_Background" foregroundColor="white" position="170,73" size="1250,50" transparent="1"/>
-	<widget name="config" itemHeight="50" font="RegularBold;25" backgroundColor="OE_Background" enableWrapAround="1" position="170,165" scrollbarMode="showOnDemand" size="1250,750" transparent="1" foregroundColor="white"/>
-	<!-- Buttons-->
-	<eLabel backgroundColor="white" name="" position="170,945" size="1250,2" zPosition="-9"/>
-	<ePixmap alphatest="blend" pixmap="buttons/key_red.png" position="170,960" size="40,40"/>
-	<ePixmap alphatest="blend" pixmap="buttons/key_green.png" position="500,960" size="40,40"/>
-	<widget source="key_red" render="Label" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="220,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<widget source="key_green" render="Label" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="550,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<!-- Clock -->
-	<panel name="Clock"/>
-  </screen>
-
   <!-- Facebook -->
   <screen name="loginCheck" title="" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
 	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1360,940" zPosition="-15"/>
