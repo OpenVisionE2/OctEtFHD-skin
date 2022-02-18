@@ -14,7 +14,6 @@
 	<color name="blue" value="#000064c7"/>
 	<color name="blue_light" value="#0044a2ff"/>
 	<color name="dark" value="#00294a6b"/>
-	<color name="dark_2" value="#3c294a6b"/>
 	<color name="darkgrey" value="#00999999"/>
 	<color name="foreground" value="#00ffffff"/>
 	<color name="green" value="#00389416"/>
@@ -23,8 +22,6 @@
 	<color name="OE_Accent1" value="#00999999"/>
 	<color name="OE_Accent2" value="#00999999"/>
 	<color name="OE_Background" value="#2c000000"/>
-	<color name="OE_Background2" value="#3c647687"/>
-	<color name="OE_Background3" value="#10647687"/>
 	<color name="OE_Blue" value="#00b3bfd1"/>
 	<color name="OE_Foreground" value="#00ffffff"/>
 	<color name="OE_Green" value="#0070ad11"/>
@@ -32,59 +29,23 @@
 	<color name="OE_NewBg" value="#0023262f"/>
 	<color name="OE_NewBg2" value="#00383b43"/>
 	<color name="OE_NewBg3" value="#004e5158"/>
-	<color name="OE_NewBg4" value="#0044495b"/>
 	<color name="OE_Orange" value="#00c3461b"/>
-	<color name="OE_Pink" value="#00a61d4d"/>
 	<color name="OE_PreBlack2" value="#40000000"/>
-	<color name="OE_PreTrans" value="#dcffffff"/>
-	<color name="OE_PreTrans2" value="#dcffffff"/>
-	<color name="OE_Purple" value="#006c0aab"/>
 	<color name="OE_Red" value="#00911d10"/>
 	<color name="OE_Selection" value="#00647687"/>
-	<color name="OE_Yellow" value="#00bf9217"/>
 	<color name="orange" value="#00f47d19"/>
-	<color name="rds_text_bg" value="#00003258"/>
 	<color name="red" value="#00f23d21"/>
-	<color name="rssviewtop" value="#45005050"/>
 	<color name="transparent" value="#ff000000"/>
 	<color name="transpBlack" value="#80000000"/>
-	<color name="transpWhite" value="#77ffffff"/>
-	<color name="transpyellow" value="#33bab329"/>
-	<color name="un18080911" value="#18080911"/>
-	<color name="un1c202b" value="#001c202b"/>
 	<color name="un1f771f" value="#001f771f"/>
-	<color name="un240e1014" value="#240e1014"/>
-	<color name="un251f1f1f" value="#251f1f1f"/>
-	<color name="un31000000" value="#31000000"/>
 	<color name="un3b5998" value="#003b5998"/>
-	<color name="un44000000" value="#44000000"/>
-	<color name="un444444" value="#00444444"/>
-	<color name="un555555" value="#00555555"/>
 	<color name="un5678a4" value="#005678a4"/>
 	<color name="un56c856" value="#0056c856"/>
-	<color name="un666666" value="#00666666"/>
-	<color name="un697279" value="#00697279"/>
 	<color name="un800000" value="#00800000"/>
 	<color name="un808888" value="#00808888"/>
-	<color name="un888888" value="#00888888"/>
-	<color name="un888a8a8a" value="#888a8a8a"/>
-	<color name="un9f1313" value="#009f1313"/>
-	<color name="unbab329" value="#00bab329"/>
-	<color name="und3d3d3" value="#00d3d3d3"/>
 	<color name="undcaaaa" value="#00dcaaaa"/>
 	<color name="undcdcdc" value="#00dcdcdc"/>
-	<color name="undddddd" value="#00dddddd"/>
-	<color name="unececec" value="#00ececec"/>
-	<color name="unf0b400" value="#00f0b400"/>
 	<color name="unfcc000" value="#00fcc000"/>
-	<color name="unfeeec8" value="#00feeec8"/>
-	<color name="unff" value="#000000ff"/>
-	<color name="unff00" value="#0000ff00"/>
-	<color name="unff0000" value="#00ff0000"/>
-	<color name="unff000000" value="#ff000000"/>
-	<color name="unff4a3c" value="#00ff4a3c"/>
-	<color name="unffff00" value="#00ffff00"/>
-	<color name="unffffff" value="#00ffffff"/>
 	<color name="white" value="#00ffffff"/>
 	<color name="yellow" value="#00e5b243"/>
 	<color name="cyan" value="#0000ffff"/>
@@ -139,7 +100,6 @@
 	<color color="OE_Blue" name="ListboxMarkedAndSelectedBackground"/>
 	<color color="OE_Foreground" name="ListboxMarkedAndSelectedForeground"/>
 	<color color="OE_Foreground" name="WindowTitleForeground"/>
-	<color color="un888a8a8a" name="WindowTitleBackground"/>
 	<borderset name="bsWindow">
 	<pixmap filename="window/bs_tl.png" pos="bpTopLeft"/>
 	<pixmap filename="window/bs_t.png" pos="bpTop"/>
