@@ -1708,36 +1708,6 @@
 	<panel name="Clock"/>
   </screen>
 
-  <!-- CyrusSettings -->
-  <screen name="MenuiSettingE2" title="" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
-	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1460,940" zPosition="-15"/>
-	<eLabel backgroundColor="OE_NewBg2" foregroundColor="white" name="" position="70,center" size="80,1080" zPosition="-11" valign="center"/>
-	<eLabel name="" foregroundColor="white" backgroundColor="blue_light" position="170,130" size="1250,2" zPosition="-9"/>
-	<!-- Widget -->
-	<eLabel text="iSettings" font="RegularBold;30" backgroundColor="OE_Background" foregroundColor="white" position="170,73" size="700,50" transparent="1"/>
-	<eLabel text="Cyrus Settings Team" position="870,73" size="600,50" font="RegularBold;30" backgroundColor="OE_Background" transparent="1" halign="right"/>
-	<ePixmap position="1260,55" size="200,70" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/CyrusSettings/Panel/cst.png" zPosition="2" alphatest="blend"/>
-	<widget name="text" itemHeight="50" font="RegularBold;25" backgroundColor="OE_Background" position="170,165" size="400,500" transparent="1" halign="center" foregroundColor="white"/>
-	<widget name="A" itemHeight="50" font="RegularBold;25" scrollbarMode="showNever" enableWrapAround="1" backgroundColor="OE_Background" transparent="1" zPosition="5" position="170,165" size="350,500" foregroundColor="white"/>
-	<widget name="B" itemHeight="50" font="RegularBold;25" scrollbarMode="showNever" enableWrapAround="1" backgroundColor="OE_Background" transparent="1" zPosition="5" position="580,165" size="890,500"/>
-	<widget name="Key_Green" font="RegularBold;25" backgroundColor="OE_Background" position="170,705" size="300,45" transparent="1" valign="center" foregroundColor="white"/>
-	<widget name="namesat" font="RegularBold;25" backgroundColor="OE_Background" position="470,705" size="1000,45" transparent="1" valign="center" foregroundColor="white"/>
-	<widget name="dataDow" font="RegularBold;25" backgroundColor="OE_Background" position="170,760" size="1250,50" transparent="1" valign="center" foregroundColor="white"/>
-	<eLabel backgroundColor="white" name="" position="170,690" size="1250,2" zPosition="-9"/>
-	<!-- Buttons-->
-	<eLabel backgroundColor="white" name="" position="170,945" size="1250,2" zPosition="-9"/>
-	<ePixmap alphatest="blend" pixmap="buttons/key_red.png" position="170,960" size="40,40"/>
-	<widget name="Green" alphatest="blend" pixmap="buttons/key_green.png" position="500,960" size="40,40"/>
-	<widget name="Yellow" alphatest="blend" pixmap="buttons/key_yellow.png" position="830,960" size="40,40"/>
-	<widget name="Blue" alphatest="blend" pixmap="buttons/key_blue.png" position="1160,960" size="40,40"/>
-	<widget name="Key_Red" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="220,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<widget name="Key_Lcn" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="550,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<widget name="Key_Personal" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="880,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<widget name="autotimer" font="Regular;28" backgroundColor="OE_Background" foregroundColor="white" position="1210,960" size="270,40" halign="left" valign="center" transparent="1" zPosition="1"/>
-	<!-- Clock -->
-	<panel name="Clock"/>
-  </screen>
-
   <!-- DLNABrowser -->
   <screen name="DLNAFileBrowser" title="File Browser" backgroundColor="transparent" flags="wfNoBorder" position="center,center" size="1920,1080">
 	<eLabel backgroundColor="OE_Background" foregroundColor="OE_Background" name="" position="30,center" size="1460,940" zPosition="-15"/>
