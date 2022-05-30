@@ -4231,9 +4231,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4254,9 +4254,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4278,9 +4278,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4302,9 +4302,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4327,9 +4327,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4352,9 +4352,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4378,9 +4378,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4402,9 +4402,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4427,9 +4427,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4453,9 +4453,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4478,9 +4478,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4504,9 +4504,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
@@ -4531,9 +4531,9 @@
 			</convert>
 		</widget>
 		<widget name="text_buttons" position="26,965" size="1000,35" zPosition="5" font="RegularBold;20" transparent="1"/>
-		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="100,994" size="40,40" zPosition="4"/>
-		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="290,994" size="40,40" zPosition="4"/>
-		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="495,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_red.png" alphatest="blend" position="80,994" size="40,40" zPosition="4"/>
+		<ePixmap pixmap="buttons/key_green.png" alphatest="blend" position="240,994" size="40,40" zPosition="4"/>
+		<widget name="menu_buttons" alphatest="blend" pixmap="buttons/key_blue.png" position="425,994" size="40,40" zPosition="4"/>
 		<ePixmap pixmap="buttons/key_help.png" position="18,1035" size="64,43" alphatest="blend"/>
 		<ePixmap pixmap="buttons/key_menu.png" position="85,1035" size="64,43" alphatest="blend"/>
 	</screen>
