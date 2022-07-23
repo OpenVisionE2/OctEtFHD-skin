@@ -1040,13 +1040,13 @@
 		<widget backgroundColor="blue_light" scrollbarBorderWidth="0" pixmap="colors/00A4C400.png" position="50,365" render="Progress" size="500,5" source="ServiceEvent" transparent="0" zPosition="1">
 			<convert type="EventTime">Progress</convert>
 		</widget>
-		<widget backgroundColor="OE_NewBg2" font="RegularBold;26" halign="left" position="50,375" options="movetype=running,startpoint=0,direction=top,steptime=100,startdelay=4000,wrap,always=0" render="RunningText" size="500,360" source="ServiceEvent" transparent="1" valign="top">
+		<widget backgroundColor="OE_NewBg2" font="RegularBold;26" halign="left" position="50,375" options="movetype=running,startpoint=0,direction=top,steptime=100,startdelay=4000,wrap,always=0" render="RunningText" size="500,330" source="ServiceEvent" transparent="1" valign="top">
 			<convert type="EventName">ExtendedDescription</convert>
 		</widget>
 		<widget backgroundColor="blue_light" foregroundColor="blue_light" scrollbarBorderWidth="0" position="50,720" render="Progress" size="500,5" source="Event" transparent="0" zPosition="1">
 			<convert type="EventTime">Progress</convert>
 		</widget>
-		<widget source="ServiceEvent" render="NextEvents" position="50,745" size="500,330" noWrap="1" font="Regular;22" backgroundColor="OE_NewBg2" foregroundColor="#a4c400" transparent="1" zPosition="5">
+		<widget source="ServiceEvent" render="NextEvents" position="50,745" size="500,330" noWrap="1" font="Regular;26" backgroundColor="OE_NewBg2" foregroundColor="#a4c400" transparent="1" zPosition="5">
 			<convert type="ServiceName">Reference</convert>
 		</widget>
 		<!-- Button -->
