@@ -16,7 +16,11 @@ commit_files() {
   git checkout master
   ./CI/chmod.sh
   ./CI/dos2unix.sh
+  ./CI/PEP8.sh
+  ./CI/futurize.sh
+  ./CI/header.sh
   ./CI/skin.sh
+  ./CI/pyskin.sh
 }
 
 upload_files() {
